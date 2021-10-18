@@ -1,5 +1,7 @@
 [website](https://mollo.netlify.app/)
 
+## University
+
 ### Thesis in Quantum Computing
 
 I worked for one year on Quantum Computing, writing my undergraduate thesis. I wrote some scripts to implement a quantum perceptron ([Tacchino et al.](https://arxiv.org/pdf/1811.02266.pdf)) and a distance-based classifier ([Schuld et al.](https://arxiv.org/pdf/1703.10793.pdf)).
