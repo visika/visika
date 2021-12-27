@@ -1,4 +1,4 @@
-[website](https://mollo.netlify.app/)
+[website](https://mollo.netlify.app/) - [reading list](https://www.goodreads.com/marianosoft)
 
 ## University
 
