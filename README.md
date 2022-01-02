@@ -1,4 +1,4 @@
-[website](https://mollo.netlify.app/) - [reading list](https://www.goodreads.com/marianosoft)
+[books](https://www.goodreads.com/marianosoft) - [music](https://www.last.fm/user/inshilon)
 
 ## University
 
