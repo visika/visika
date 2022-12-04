@@ -4,7 +4,7 @@
 [curriculum vitae](https://raw.githubusercontent.com/visika/curriculum-vitae/main/resume.pdf)
 
 I'm studying physics at Federico II in Naples, Italy.
-My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using Arch Linux, the best experience I've found so far), aikido, 3d printing.
+My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using Arch Linux and MX Linux), aikido, 3d printing.
 
 I'm currently studying for the quantum field theory exam at university, it's a beast.
 
