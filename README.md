@@ -1,7 +1,7 @@
 [books](https://www.goodreads.com/marianosoft) -
 [music](https://www.last.fm/user/inshilon) -
 [3d modeling](https://thangs.com/designer/soffice) -
-[curriculum vitae](https://raw.githubusercontent.com/visika/curriculum-vitae/main/resume.pdf)
+[curriculum vitae](https://media.githubusercontent.com/media/visika/curriculum-vitae/refs/heads/main/resume.pdf)
 
 I'm studying physics at Federico II in Naples, Italy.
 My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using Arch Linux and MX Linux), aikido, 3d printing.
