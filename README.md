@@ -1,4 +1,4 @@
-[books](https://www.goodreads.com/marianosoft) -
+[books](https://lore.livellosegreto.it/user/soffice) -
 [music](https://www.last.fm/user/inshilon) -
 [3d modeling](https://thangs.com/designer/soffice) -
 [curriculum vitae](https://media.githubusercontent.com/media/visika/curriculum-vitae/refs/heads/main/resume.pdf)
