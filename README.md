@@ -22,6 +22,9 @@ In my [Master's Degree project](https://github.com/visika/tesi-magistrale)
 I analyzed thermodynamic properties of solid and liquid water,
 using MACE, a state of the art machine learning potential.
 
+During my study path I acquired an in-depth understanding of numerical simulation algorithms and techniques,
+advanced training in thermodynamics, statistical mechanics, and machine learning methods.
+
 ### Bachelor's Degree in Physics: Thesis on Quantum Computing
 
 In my undergraduate thesis project
@@ -33,6 +36,9 @@ on IBM quantum computers using QASM and Qiskit.
 - **[Distance-based classifier](https://github.com/visika/Tesi)** A messy folder with the files I used for my thesis;
   I started with the instructions from the article and then improved it myself to use more vectors,
   more features (with QRAM, see [Petruccione et al.](https://arxiv.org/abs/1901.02362)) and making it a multiclass calssifier.
+
+I learned advanced concepts in mathematics, gained proficiency in physics, and with the scientific method;
+this included laboratory measurements and data analysis skills, accompanied by strong programming abilities and attitude to work in group.
 
 <!--
 **visika/visika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
