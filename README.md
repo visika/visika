@@ -16,10 +16,23 @@ You will find us around April and May of this year in Naples!
 
 ## University
 
-I worked for one year on quantum computing, writing my undergraduate thesis, during which I wrote some scripts to implement a quantum perceptron ([Tacchino et al.](https://arxiv.org/pdf/1811.02266.pdf)) and a distance-based classifier ([Schuld et al.](https://arxiv.org/pdf/1703.10793.pdf)).
+### Master's Degree in Theoretical Physics: Thesis on Molecular Dynamics simulation using Graph Neural Networks
+
+In my [Master's Degree project](https://github.com/visika/tesi-magistrale)
+I analyzed thermodynamic properties of solid and liquid water,
+using MACE, a state of the art machine learning potential.
+
+### Bachelor's Degree in Physics: Thesis on Quantum Computing
+
+In my undergraduate thesis project
+I implemented a quantum perceptron ([Tacchino et al.](https://arxiv.org/pdf/1811.02266.pdf))
+and a distance-based classifier ([Schuld et al.](https://arxiv.org/pdf/1703.10793.pdf))
+on IBM quantum computers using QASM and Qiskit.
 
 - **[Quantum Perceptron](https://github.com/visika/quantum-perceptron)** A simple implementation that built my intuition around quantum circuits.
-- **[Distance-based classifier](https://github.com/visika/Tesi)** A messy folder with the files I used for my thesis; I started with the instructions from the article and then improved it myself to use more vectors, more features (with QRAM, see [Petruccione et al.](https://arxiv.org/abs/1901.02362)) and making it a multiclass calssifier.
+- **[Distance-based classifier](https://github.com/visika/Tesi)** A messy folder with the files I used for my thesis;
+  I started with the instructions from the article and then improved it myself to use more vectors,
+  more features (with QRAM, see [Petruccione et al.](https://arxiv.org/abs/1901.02362)) and making it a multiclass calssifier.
 
 <!--
 **visika/visika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
