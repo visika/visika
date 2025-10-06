@@ -3,10 +3,10 @@
 [3d modeling](https://thangs.com/designer/soffice) -
 [curriculum vitae](https://codeberg.org/soft/curriculum-vitae/raw/branch/main/CV-Mariano-Mollo-eng.pdf)
 
-I'm studying physics at Federico II in Naples, Italy.
-My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using Arch Linux and MX Linux), aikido, 3d printing.
+I studied Physics at Federico II University in Naples, Italy.
+My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using EndeavourOS and NixOS), aikido, 3D printing.
 
-I'm currently studying for the quantum field theory exam at university, it's a beast.
+I'm currently working as IT Manager and Quality Manager at the engineering firm Sintech Solution.
 
 I'm part of the [PONYS](http://www.ponys.unina.it/) students association,
 a group of passionate and competent students promoting science.
