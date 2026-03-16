@@ -6,7 +6,7 @@
 I studied Physics at Federico II University in Naples, Italy.
 My interests are programming (I explored functional programming like Clojure in the pandemy), linux (currently using EndeavourOS and NixOS), aikido, 3D printing.
 
-I'm currently working as IT Manager and Quality Manager at the engineering firm Sintech Solution.
+I'm currently working as Data Scientist at NTT DATA.
 
 I'm part of the [PONYS](http://www.ponys.unina.it/) students association,
 a group of passionate and competent students promoting science.
